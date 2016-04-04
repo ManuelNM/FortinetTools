@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+"Search in file todo.txt (all objects) the elements that are in the file buscar.txt and print the edit line and the following 3 lines."
 f1=open("todo.txt","r")
 l1=f1.readlines()
 
